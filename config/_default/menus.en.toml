@@ -1,0 +1,23 @@
+  [[main]]
+  name = "Home"
+  weight = 100
+  identifier = "home"
+  url = "/"
+
+  [[main]]
+  name = "Talks"
+  weight = 200
+  identifier = "talks"
+  url = "/talks/"
+
+  [[main]]
+  name = "Papers"
+  weight = 300
+  identifier = "papers"
+  url = "/papers/"
+
+  [[footer]]
+  name = "Powered by the Anatole Hugo Theme"
+  weight = 10
+  identifier = "https://github.com/lxndrblz/anatole"
+  url = "https://github.com/lxndrblz/anatole"
