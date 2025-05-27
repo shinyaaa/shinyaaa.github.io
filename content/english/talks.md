@@ -11,6 +11,7 @@ author = "Shinya Kato"
 - Postgres Ibiza 2023 (Aug. 2023): [PostgreSQL on Kubernetes: Realizing High Availability with PGO](https://www.slideshare.net/slideshow/postgres-k8s-ha-pgo-postgres-ibiza-2023-nttdata/260245161)
 
 ## Japanese
+- CloudNative Days Summer 2025 (May. 2025): [つくって壊して直して学ぶDB on Kubernetes -初夏の日の2025-](https://www.slideshare.net/slideshow/database-on-kubernetes-postgresql-cnds2025-nttdata/279494353)
 - 第50回PostgreSQLアンカンファレンス@オンライン (Dec. 2024): [pg_bigmをRustで実装する](https://speakerdeck.com/shinyakato_/postgresql-implements-pg-bigm-with-rust-pgunconf-50)
 - DEIM 2024 (Mar. 2024): [OSSデータベースの開発コミュニティに参加しよう！](https://www.slideshare.net/slideshow/postgresql-community-development-deim2024-nttdata/266677773)
 - PostgreSQL Conference Japan 2023 (Nov. 2023): [マネージドPostgreSQLの実現に向けたPostgreSQL機能向上](https://www.slideshare.net/nttdata-tech/postgresql-dbaas-pgcon23j-nttdata)
