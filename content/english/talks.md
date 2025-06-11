@@ -7,7 +7,7 @@ author = "Shinya Kato"
 +++
 
 ## English
-- POSETTE 2025 (Jun. 2025): Can We Use Rust to Develop Extensions for PostgreSQL?
+- POSETTE 2025 (Jun. 2025): [Can We Use Rust to Develop Extensions for PostgreSQL?](https://www.slideshare.net/slideshow/postgresql-extensions-development-in-rust-posette-2025-nttdata/280429555)
 - Postgres Ibiza 2023 (Aug. 2023): [PostgreSQL on Kubernetes: Realizing High Availability with PGO](https://www.slideshare.net/slideshow/postgres-k8s-ha-pgo-postgres-ibiza-2023-nttdata/260245161)
 
 ## Japanese
