@@ -34,3 +34,6 @@ I am a database engineer at the NTT DATA Group Corporation.
 My primary responsibilities include support, research and development (R&D), and maintaining several extensions for PostgreSQL.
 In the support team, we handle over 100 inquiries annually.
 Our R&D work on PostgreSQL covers topics such as PostgreSQL on Kubernetes and Neon, a software solution for separating compute and storage in PostgreSQL.
+
+## Interview
+- [POSETTE 2025 Speaker Interview](https://posetteconf.com/speakers/shinya-kato/#interview)
