@@ -67,6 +67,11 @@ title = "GitHub"
 url = "https://github.com/shinyaaa"
 
 [[socialIcons]]
+icon = "fa-brands fa-dev"
+title = "dev.to"
+url = "https://dev.to/shinyakato_"
+
+[[socialIcons]]
 icon = "fa-brands fa-x-twitter"
 title = "X"
 url = "https://x.com/ShinyaKato_"
