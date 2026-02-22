@@ -82,6 +82,11 @@ title = "Speaker Deck"
 url = "https://speakerdeck.com/shinyakato_"
 
 [[socialIcons]]
+icon = "fa-brands fa-spotify"
+title = "Spotify"
+url = "https://creators.spotify.com/pod/profile/tech-table-log"
+
+[[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "mailto:shinya11.kato@gmail.com"
