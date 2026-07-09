@@ -11,10 +11,10 @@
   url = "/talks/"
 
   [[main]]
-  name = "Papers"
+  name = "Publications"
   weight = 300
-  identifier = "papers"
-  url = "/papers/"
+  identifier = "publications"
+  url = "/publications/"
 
   [[footer]]
   name = "Powered by the Anatole Hugo Theme"

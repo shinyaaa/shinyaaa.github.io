@@ -35,5 +35,9 @@ My primary responsibilities include support, research and development (R&D), and
 In the support team, we handle over 100 inquiries annually.
 Our R&D work on PostgreSQL covers topics such as PostgreSQL on Kubernetes and Neon, a software solution for separating compute and storage in PostgreSQL.
 
+## OSS Contributions
+I actively contribute to open source software, mainly [PostgreSQL](https://www.postgresql.org/).
+You can find my activity on [GitHub](https://github.com/shinyaaa).
+
 ## Interview
 - [POSETTE 2025 Speaker Interview](https://posetteconf.com/speakers/shinya-kato/#interview)
