@@ -8,7 +8,7 @@ author = "Shinya Kato"
 
 ## Books
 - **Translator**: *Just Use Postgres!* — Japanese edition
-- **Co-author**: OSS教科書 OSS-DB Silver Ver.3.0対応 (*a study guide for OSS-DB Silver, a PostgreSQL certification exam, Ver.3.0*, in Japanese)
+- **Co-author** (Aug. 2023): [OSS教科書 OSS-DB Silver Ver.3.0対応](https://www.shoeisha.co.jp/book/detail/9784798180311) (*a study guide for OSS-DB Silver, a PostgreSQL certification exam, Ver.3.0*, in Japanese)
 
 ## Papers
 ### English
