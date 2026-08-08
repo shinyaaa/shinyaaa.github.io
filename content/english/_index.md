@@ -39,7 +39,7 @@ Our R&D work on PostgreSQL covers topics such as PostgreSQL on Kubernetes and Ne
 - [POSETTE 2025 Speaker Interview](https://posetteconf.com/speakers/shinya-kato/#interview)
 
 ## PostgreSQL Contribution
-I have been contributing to PostgreSQL since 2020, and was recognized as a significant contributor in 2026.
+I have been contributing to PostgreSQL since 2020, and was recognized as a Significant Contributor in 2026.
 
 - Full list of committed patches: [git.postgresql.org](https://git.postgresql.org/gitweb/?p=postgresql.git&a=search&h=HEAD&st=commit&s=Shinya+Kato)
 - Patches under development: [cfbot.cputube.org](https://cfbot.cputube.org/shinya-kato.html)
