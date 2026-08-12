@@ -41,7 +41,7 @@ Our R&D work on PostgreSQL covers topics such as PostgreSQL on Kubernetes and Ne
 ## PostgreSQL Contribution
 I have been contributing to PostgreSQL since 2020, and was recognized as a Significant Contributor in 2026.
 
-- Full list of committed patches: [git.postgresql.org](https://git.postgresql.org/gitweb/?p=postgresql.git&a=search&h=HEAD&st=commit&s=Shinya+Kato)
+- Full list of committed patches: [git.postgresql.org](https://git.postgresql.org/cgit/postgresql.git/log/?qt=grep&q=Shinya+Kato)
 - Patches under development: [cfbot.cputube.org](https://cfbot.cputube.org/shinya-kato.html)
 
 Selected contributions:
