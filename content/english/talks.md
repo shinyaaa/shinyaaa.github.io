@@ -7,10 +7,13 @@ author = "Shinya Kato"
 +++
 
 ## English
+- PGConf.Asia 2026 (Nov. 2026): Vacuum Observability: Lessons from Real-World Troubleshooting [[Schedule](https://pgconf.asia/EN/2026/proposals/?id=c73d384d-2677-49f9-84ce-720c826e72ee)]
 - POSETTE 2025 (Jun. 2025): Can We Use Rust to Develop Extensions for PostgreSQL? [[SlideShare](https://www.slideshare.net/slideshow/postgresql-extensions-development-in-rust-posette-2025-nttdata/280429555)] [[Schedule](https://posetteconf.com/2025/talks/can-we-use-rust-to-develop-extensions-for-postgresql/)] [[Video](https://youtu.be/0NKFVQq0YuA)]
 - Postgres Ibiza 2023 (Aug. 2023): PostgreSQL on Kubernetes: Realizing High Availability with PGO [[SlideShare](https://www.slideshare.net/slideshow/postgres-k8s-ha-pgo-postgres-ibiza-2023-nttdata/260245161)] [[Schedule](https://pgibz.io/2023/schedule.html)]
 
 ## Japanese
+- PostgreSQL Conference Japan 2026 (Nov. 2026): 事例で学ぶVacuumの可観測性 [[Schedule](https://www.postgresql.jp/jpug-pgcon2026#T3)]
+- Japan PostgreSQL Developer Meetup - PAIKAJI (Sep. 2026): Report oldest xmin source when autovacuum cannot remove tuples [[Speaker Deck](https://speakerdeck.com/shinyakato_/postgresql-improve-vacuum-log-en)]
 - 第53回PostgreSQLアンカンファレンス@オンライン (Jun. 2025): PostgreSQLのVisibilityの仕組み [[Speaker Deck](https://speakerdeck.com/shinyakato_/postgresql-visibility-implementation)] [[Schedule](https://pgunconf.connpass.com/event/355128/)]
 - CloudNative Days Summer 2025 (May. 2025): つくって壊して直して学ぶDB on Kubernetes -初夏の日の2025- [[SlideShare](https://www.slideshare.net/slideshow/database-on-kubernetes-postgresql-cnds2025-nttdata/279494353)] [[Schedule](https://cloudnativedays.jp/cnds2025/talks/2583)]
 - 第50回PostgreSQLアンカンファレンス@オンライン (Dec. 2024): pg_bigmをRustで実装する [[Speaker Deck](https://speakerdeck.com/shinyakato_/postgresql-implements-pg-bigm-with-rust-pgunconf-50)] [[Schedule](https://pgunconf.connpass.com/event/338511/)]
